@@ -106,7 +106,7 @@ def generate_new_tab
 
         setImage()
         document.addEventListener('click', setImage)
-        setInterval(setImage, 3000)
+        // setInterval(setImage, 3000)
       </script>
     </body>
     </html>
